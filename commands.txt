@@ -1,1 +1,8 @@
 Todays's Commands
+
+
+git add
+git status
+git restore staged
+git commit -m
+git restore
