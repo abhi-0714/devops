@@ -7,3 +7,6 @@ git restore staged
 git commit -m
 git restore
 git log
+git config --global user.name ""
+
+
